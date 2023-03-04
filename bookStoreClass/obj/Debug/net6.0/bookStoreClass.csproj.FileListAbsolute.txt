@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\bin\Debug\net6.0\bookStoreClass.exe
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\bin\Debug\net6.0\bookStoreClass.deps.json
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\bin\Debug\net6.0\bookStoreClass.runtimeconfig.json
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\bin\Debug\net6.0\bookStoreClass.dll
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\bin\Debug\net6.0\bookStoreClass.pdb
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.AssemblyInfo.cs
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.dll
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\refint\bookStoreClass.dll
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.pdb
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\bookStoreClass.genruntimeconfig.cache
+C:\Users\meesh\source\repos\bookStoreClass\bookStoreClass\obj\Debug\net6.0\ref\bookStoreClass.dll
